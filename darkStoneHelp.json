@@ -1,0 +1,26 @@
+[ 
+{ 
+"author" : "Silaminou", 
+"name" : "darkStoneHelp", 
+"keyWords" : "keyword1,keyword2", 
+"version" : "1.0.6", 
+"dofusVersion" : "2.42", 
+"description" : "Thème de base mis à jours pour aider les utilisateurs, Si vous avez des idées d'améliorations (Ankabox: Reglis222 | Twitter: @SilamLicrounch)", 
+"url" : "https://github.com/Silaminou/darkstonehelp/raw/master/darkStoneHelp.zip", 
+"previewUrl" : "https://github.com/Silaminou/darkstonehelp/raw/master/darkStoneHelp.jpg", 
+"creationDate" : "06/08/2017", 
+"modificationDate" : "06/08/2017" 
+},
+{ 
+"author" : "Silaminou", 
+"name" : "darkStone", 
+"keyWords" : "keyword1,keyword2", 
+"version" : "1.0.0", 
+"dofusVersion" : "2.42", 
+"description" : "Thème de base", 
+"url" : "https://github.com/Silaminou/darkstonehelp/raw/master/darkStone.zip", 
+"previewUrl" : "https://github.com/Silaminou/darkstonehelp/raw/master/darkStoneHelp.jpg", 
+"creationDate" : "06/08/2017", 
+"modificationDate" : "06/08/2017" 
+} 
+]
